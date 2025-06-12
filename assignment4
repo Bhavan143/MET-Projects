@@ -166,8 +166,10 @@
 
 
 #20
-person={"name":"bhavan","age":19}
-person2=person.copy()
-person["age"]=35
-print(person)
-print(person2)
+# person={"name":"bhavan","age":19}
+# person2=person.copy()
+# person["age"]=35
+# print(person)
+# print(person2)
+# {'name': 'bhavan', 'age': 35}
+# {'name': 'bhavan', 'age': 19}
