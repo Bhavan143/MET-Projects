@@ -1,0 +1,12 @@
+
+#1
+# fruits = [['jack', 'apple'], ['orange', 'kiwi'], ['dragon', 'grape']]
+# print(fruits[2][0])
+#output----#dragon
+
+#2
+# a=((0, 1), (2, 3), (4, 5))
+# print(a[-1][1])
+#output-----#5
+
+#
