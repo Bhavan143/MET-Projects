@@ -121,18 +121,19 @@
 #brush
 
 #15
-a={
-    "bhavan":{
-        "math":99,
-        "phy":99,
-        "che":99,
-        "eng":95
-    },
-    "adarsh":{
-        "math":100,
-        "phy":99,
-        "che":99,
-        "eng":99
-    }
-}
-print(a["bhavan"]["math"])
+# a={
+#     "bhavan":{
+#         "math":99,
+#         "phy":99,
+#         "che":99,
+#         "eng":95
+#     },
+#     "adarsh":{
+#         "math":100,
+#         "phy":99,
+#         "che":99,
+#         "eng":99
+#     }
+# }
+# print(a["bhavan"]["math"])
+# #99

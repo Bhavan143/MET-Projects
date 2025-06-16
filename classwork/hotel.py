@@ -41,3 +41,4 @@ total_bill={total_bill}
 
 """
 print(detailed)
+
