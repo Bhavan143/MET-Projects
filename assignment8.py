@@ -84,13 +84,15 @@
 #         continue
 
 #10.
-def valid_age():
-    age=int(input("enter your age:"))
-    while age<0:
-        age=int(input("enter your age:"))
-    print(f"your age is:{age}")
+# def valid_age():
+#     age=int(input("enter your age:"))
+#     while age<0:
+#         age=int(input("enter your age:"))
+#     print(f"your age is:{age}")
 
-valid_age()
+# valid_age()
+
+
         
 
 
