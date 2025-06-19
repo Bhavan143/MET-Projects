@@ -57,12 +57,16 @@
 # maximum(1,2,9,20)
 
 #7.
-# name=input("enter your name:").split()
-# while name!="":
-#     print(list(name))
-#     break
-#     if name=="":
+# names = []
+
+# while True:
+#     name = input("Enter a name: ")
+#     if name == "":
 #         break
+#     names.append(name)
+
+# print("Names entered:", names)
+
 
 
 #8.
