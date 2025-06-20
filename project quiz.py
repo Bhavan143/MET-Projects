@@ -20,7 +20,10 @@ count=0
 for i in questions:
     print(f"""
     Question:{i["question"]}
-    Options:{i["options"]}
+    {i["options"][0]}
+    {i["options"][1]}
+    {i["options"][2]}
+    {i["options"][3]}
     """)
     your_answer=input("enter your answer:")
     if your_answer in i["answer"]:
